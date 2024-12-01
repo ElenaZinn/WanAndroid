@@ -1,5 +1,6 @@
 #### 简介
 这是基于kotlin和WanAndroid开放API的APP。
+refer to https://gitee.com/ElenaZhao/android_fundament.git
 
 #### 功能截图
 ![截图1](https://gitee.com/zhao-fangchen/image/raw/master/WanAndroid/%E5%8A%9F%E8%83%BD%E6%88%AA%E5%9B%BE1.jpg)
